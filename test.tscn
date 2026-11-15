@@ -48,7 +48,7 @@ use_kinematic_bodies = true
 tile_set = ExtResource("4_ppyta")
 use_kinematic_bodies = true
 
-[node name="Coin" parent="." unique_id=2019699194 instance=ExtResource("5_ykrsh")]
+[node name="Coin" parent="." unique_id=2019699194 groups=["coin"] instance=ExtResource("5_ykrsh")]
 position = Vector2(147, 66)
 
 [connection signal="area_entered" from="CharacterBody2D/PickupArea" to="CharacterBody2D" method="_on_pickup_area_area_entered"]

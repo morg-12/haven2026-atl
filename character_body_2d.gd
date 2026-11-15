@@ -27,3 +27,4 @@ func _on_pickup_area_area_entered(area: Area2D) -> void:
 	if area.is_in_group("coin"):
 		area.queue_free()
 		coin_count += 1
+		$CanvasLayer/CoinsCollected.text = "Coins Collected: "+str(coin_count)
