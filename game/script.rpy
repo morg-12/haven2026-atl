@@ -89,7 +89,8 @@ label park:
     "{i}... What.{/i}"
     a "My account was suspended? And it’s unappealable? Is this a phishing scam?"
     "{i}I attempt to log into my XXXXXXXX account, only to see the worst thing ever.{/i}"
-    "Banned permanently… Banned?"
+    a "{size=24}Banned permanently… Banned?{/size}"
+    a "{size=48}Banned?!{/size}"
     jump house2
 label house2:
     scene bg_house
@@ -101,7 +102,7 @@ label house2:
     "{i}… I don’t want to be like this, but I can’t escape it. The crushing void of unemployment, am I right?{/i}"
     "{i}... Not funny, I know.{/i}"
     "{i}... No escape. No lifeline. Just pure despair.{/i}"
-    "{i}I don't think I want to-{/i}"
+    "{i}{size=24}I don't think I want to-{/size}{/i}"
     play sound notif
     pause 0.5
     "{i}My email...?{/i}"
