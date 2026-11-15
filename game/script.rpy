@@ -2,8 +2,12 @@
 
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
-
-define e = Character("Eileen")
+define false = False
+define true = True 
+define none = None 
+define a = Character("Aveline")
+define c = Character("Commissioner")
+define 
 
 
 # The game starts here.
