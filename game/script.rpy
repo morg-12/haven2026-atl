@@ -136,7 +136,7 @@ label goodend:
     with fade
     a "I'll have bounced back."
     scene end
-    with fade
+    pause 2
     return
 label badend:
     scene badEnd
