@@ -1,25 +1,25 @@
-2026-11-15 22:16:44 UTC
+2026-11-15 23:00:33 UTC
 macOS-26.5.1-arm64-arm-64bit
 Ren'Py 8.6.0.26111403
 
-Early init took 237 ms
-Loading error handling took 202 ms
-Loading script took 172 ms
-Loading save slot metadata took 43 ms
+Early init took 113 ms
+Loading error handling took 44 ms
+Loading script took 166 ms
+Loading save slot metadata took 37 ms
 Loading persistent took 0 ms
-Running init code took 51 ms
-Loading analysis data took 5 ms
+Running init code took 82 ms
+Loading analysis data took 6 ms
 Analyze and compile ATL took 2 ms
-Reloading save slot metadata took 1 ms
-Dump and make backups took 117 ms
+Reloading save slot metadata took 3 ms
+Dump and make backups took 81 ms
 Cleaning cache took 0 ms
-Making clean stores took 2 ms
-Initial gc took 92 ms
-Creating interface object took 1 ms
-Init translation took 1 ms
+Making clean stores took 0 ms
+Initial gc took 85 ms
+Creating interface object took 2 ms
+Init translation took 0 ms
 Cleaning stores took 0 ms
-Load screen analysis took 15 ms
-Analyze screens took 1 ms
+Load screen analysis took 20 ms
+Analyze screens took 2 ms
 Save screen analysis took 0 ms
 Save pyanalysis took 0 ms
 Save bytecode took 0 ms
