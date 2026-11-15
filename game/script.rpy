@@ -26,7 +26,7 @@ transform lefpos:
 transform ripos:
     xalign 1.0
     yalign 0.125
-
+define nar = nvl_narrator
 # The game starts here.
 
 label start:
@@ -141,18 +141,17 @@ label goodend:
 label badend:
     scene badEnd
     with dis 
-    "{i}In the end, I didn't do anything about it. After all, my rating was abysmally low. There was nothing I could do about it.{/i}"
-    "{i}And, eventually,{/i}"
-    "{i}I was swallowed up by my despair. I lost my apartment, my friends, and eventually myself.{/i}"
+    nar "{i}In the end, I didn't do anything about it. After all, my rating was abysmally low. There was nothing I could do about it.{/i}"
+    nar "{i}And, eventually,{/i}"
+    nar "{i}I was swallowed up by my despair. I lost my apartment, my friends, and eventually myself.{/i}"
     scene void
-    "{i}There's nothing I could do about it.{/i}"
-    "{i}Nothing I could've done about it.{/i}"
-    "{i}Absolutely nothing{/i}"
-    "{i}Nothing{/i}"
+    nar "{i}There's nothing I could do about it.{/i}"
+    nar "{i}Nothing I could've done about it.{/i}"
+    nar "{i}Absolutely nothing{/i}"
+    nar "{i}Nothing{/i}"
+    nar "{i}Nothing{/i}"
     pause 0.25
-    "{i}Nothing{/i}"
-    pause 0.25
-    "{i}NOTHING!{/i}"
+    nar "{i}NOTHING!{/i}"
     scene bg_house
     with fad
     jump choice
