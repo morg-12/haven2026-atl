@@ -2,6 +2,7 @@
 
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
+define fad = Fade(0.5,0.0,0.5,color = "#ffffff")
 define false = False
 define true = True 
 define none = None 
@@ -110,18 +111,18 @@ label house2:
     pause 0.5
     "{i}I can't just ignore it, though.{/i}"
     "{i}Therefore, I should try logging in.{/i}"
-    play sound notif
+    play sound click
     "{i}... What?{/i}"
     "{i}It... worked? How?{/i}"
     "{i}I mean, my rating is still a crisp 1.1 stars, though.{/i}"
-    "{i}... So, doesn't that mean I can start over?"
-    jump goodend
-    '''menu:
+    jump choice
+label choice:
+    menu:
         "{i}... So, doesn't that mean-{/i}"
         "I can start over?":
             jump goodend
         "It's still over?":
-            jump badend'''
+            jump badend
 label goodend:
     scene bg_clouds
     with fade
@@ -135,6 +136,20 @@ label goodend:
     a "I'll have bounced back."
     scene end
     with fade
+    return
 label badend:
-    return
-    return
+    scene badEnd
+    with dis 
+    "{i}In the end, I didn't do anything about it. After all, my rating was abysmally low. There was nothing I could do about it.{/i}"
+    "{i}And, eventually,{/i}"
+    "{i}I was swallowed up by my despair. I lost my apartment, my friends, and eventually myself.{/i}"
+    scene void 
+    "{i}There's nothing I could do about it.{/i}"
+    "{i}Nothing I could've done about it.{/i}"
+    "{i}Absolutely nothing{/i}"
+    "{i}Nothing{/i}"
+    "{i}Nothing{/i}"
+    "{i}NOTHING!{/i}"
+    scene bg_house
+    with fad
+    jump choice
