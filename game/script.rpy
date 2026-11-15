@@ -112,6 +112,7 @@ label house2:
     "{i}I can't just ignore it, though.{/i}"
     "{i}Therefore, I should try logging in.{/i}"
     play sound click
+    pause 0.5
     "{i}... What?{/i}"
     "{i}It... worked? How?{/i}"
     "{i}I mean, my rating is still a crisp 1.1 stars, though.{/i}"
@@ -143,12 +144,14 @@ label badend:
     "{i}In the end, I didn't do anything about it. After all, my rating was abysmally low. There was nothing I could do about it.{/i}"
     "{i}And, eventually,{/i}"
     "{i}I was swallowed up by my despair. I lost my apartment, my friends, and eventually myself.{/i}"
-    scene void 
+    scene void
     "{i}There's nothing I could do about it.{/i}"
     "{i}Nothing I could've done about it.{/i}"
     "{i}Absolutely nothing{/i}"
     "{i}Nothing{/i}"
+    pause 0.25
     "{i}Nothing{/i}"
+    pause 0.25
     "{i}NOTHING!{/i}"
     scene bg_house
     with fad
