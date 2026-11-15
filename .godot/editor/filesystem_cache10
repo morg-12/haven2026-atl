@@ -1,13 +1,14 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1794760741
-icon.svg::CompressedTexture2D::1424721058984079699::1794760039::1794760046::1::::<><><>0<>0<>1c5e39af5d5601dac699924e16625945<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-character_body_2d.gd::GDScript::4699705854930427081::1794760304::0::1::::<>CharacterBody2D<><>0<>0<><>::
-sprite_2d.gd::GDScript::596638343321102134::1794760156::0::1::::<>Sprite2D<><>0<>0<><>::
-test.tscn::PackedScene::4221969174436588573::1794760307::0::1::::<><><>0<>0<><>::uid://b77tp66r0qiq0::::res://character_body_2d.gd<>uid://uke7hr5n622j::::res://icon.svg<>uid://irasttr5c183::::res://sprite_2d.gd
+::res://::1794763768
+character_body_2d.gd::GDScript::4699705854930427081::1794761834::0::1::::<>CharacterBody2D<><>0<>0<><>::
+icon.svg::CompressedTexture2D::1424721058984079699::1794761834::1794761834::1::::<><><>0<>0<>1c5e39af5d5601dac699924e16625945<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1794762848::0::1::::<><><>0<>0<><>::
+sprite_2d.gd::GDScript::596638343321102134::1794761834::0::1::::<>Sprite2D<><>0<>0<><>::
+test.tscn::PackedScene::4221969174436588573::1794763768::0::1::::<><><>0<>0<><>::uid://b77tp66r0qiq0::::res://character_body_2d.gd<>uid://uke7hr5n622j::::res://icon.svg<>uid://irasttr5c183::::res://sprite_2d.gd<>uid://fckifgfg8mii::::res://free-swamp-game-tileset-pixel-art/1 Tiles/Tileset.png
 ::res://free-swamp-game-tileset-pixel-art/::1794760754
 Font.txt::TextFile::-1::1794760754::0::1::::<><><>0<>0<><>::
 License.txt::TextFile::-1::1794760754::0::1::::<><><>0<>0<><>::
-::res://free-swamp-game-tileset-pixel-art/1 Tiles/::1794760746
+::res://free-swamp-game-tileset-pixel-art/1 Tiles/::1794760767
 Tileset.png::CompressedTexture2D::355694702099268816::1794760742::1794760765::1::::<><><>0<>0<>5bdb4e4a0b5fe8a97e2745ce808fb398<>res://.godot/imported/Tileset.png-8c55c7ee9dfdad1afc3dc2ba4548fb5e.ctex::
 Tile_01.png::CompressedTexture2D::558251449858413369::1794760741::1794760765::1::::<><><>0<>0<>1399a4008f2aeb948a7db7e8c346a9e2<>res://.godot/imported/Tile_01.png-6fc3197fd6ee1503a98239cb3f05c2bc.ctex::
 Tile_02.png::CompressedTexture2D::3778598337915532160::1794760741::1794760765::1::::<><><>0<>0<>b52a9591dea3483828e4c2f0bfe2e8c3<>res://.godot/imported/Tile_02.png-847766f5f93266b290246d6695454641.ctex::
@@ -69,23 +70,23 @@ Tile_57.png::CompressedTexture2D::4966105889236965188::1794760745::1794760766::1
 Tile_58.png::CompressedTexture2D::8438811702055774973::1794760746::1794760766::1::::<><><>0<>0<>b1879fa733d03fc0674fffdf78fa34db<>res://.godot/imported/Tile_58.png-631283a95b6abc04b40928e61167a853.ctex::
 Tile_59.png::CompressedTexture2D::1722218696534527111::1794760746::1794760766::1::::<><><>0<>0<>eb740180fdaf130a683d765d8cd7a178<>res://.godot/imported/Tile_59.png-dde9a7fb3f926f664bfdbd6ea1c1b2a7.ctex::
 Tile_60.png::CompressedTexture2D::470263485980600034::1794760746::1794760765::1::::<><><>0<>0<>df0679b4f10d2c5cc9de40425ad9a19e<>res://.godot/imported/Tile_60.png-f17c844de7febcfc3727066cc81dff8a.ctex::
-::res://free-swamp-game-tileset-pixel-art/2 Background/::1794760747
+::res://free-swamp-game-tileset-pixel-art/2 Background/::1794760762
 Background.png::CompressedTexture2D::6319677940854478044::1794760747::1794760762::1::::<><><>0<>0<>bf1f520867408bfe30a1212c569bfa01<>res://.godot/imported/Background.png-39876db983ac41b2f92079ea5ba2c81e.ctex::
-::res://free-swamp-game-tileset-pixel-art/2 Background/Layers/::1794760747
+::res://free-swamp-game-tileset-pixel-art/2 Background/Layers/::1794760765
 1.png::CompressedTexture2D::4605779626992016763::1794760747::1794760765::1::::<><><>0<>0<>6761b694529e816ba1bec3a6a7af2099<>res://.godot/imported/1.png-c7e431e789399ed26ca35e60c3a718d0.ctex::
 2.png::CompressedTexture2D::6322301441634680401::1794760747::1794760765::1::::<><><>0<>0<>1fb64903106c45106f627dab242509fc<>res://.godot/imported/2.png-7e9bc31f22f0d80728c0ca81ff79fbcc.ctex::
 3.png::CompressedTexture2D::3392044278585345935::1794760747::1794760765::1::::<><><>0<>0<>d2f0785b7f408c5e4ea024df1470ed52<>res://.godot/imported/3.png-6695437961d6961bcd520ae6f1be34ad.ctex::
 4.png::CompressedTexture2D::7289141265891318108::1794760747::1794760765::1::::<><><>0<>0<>e01e517d14aaa752be4190291157099b<>res://.godot/imported/4.png-05cc8ca995b94c56a07801908e1a7c9b.ctex::
 5.png::CompressedTexture2D::8886511088931442031::1794760747::1794760765::1::::<><><>0<>0<>608638439dab01912cd9989840f3dd15<>res://.godot/imported/5.png-6003989500f7b93cf62430480392a6f1.ctex::
 ::res://free-swamp-game-tileset-pixel-art/3 Objects/::1794760753
-::res://free-swamp-game-tileset-pixel-art/3 Objects/Boxes/::1794760748
+::res://free-swamp-game-tileset-pixel-art/3 Objects/Boxes/::1794760762
 1.png::CompressedTexture2D::7640072657167850271::1794760747::1794760762::1::::<><><>0<>0<>5e0e8daa9cb456e45bd2caf16b223d6e<>res://.godot/imported/1.png-dd01357d90ed4ddf9bca2253dd3f1103.ctex::
 2.png::CompressedTexture2D::3743450306002716758::1794760748::1794760762::1::::<><><>0<>0<>17481d7a1eb673ec034dd1bec3a6fad7<>res://.godot/imported/2.png-15ddfb9ab6be3fb41a47567f65038930.ctex::
 3.png::CompressedTexture2D::4788482704589634640::1794760748::1794760762::1::::<><><>0<>0<>78f45b4028372b34d53efa3c32bb3cf0<>res://.godot/imported/3.png-f4ced247d9a0ae37f201436f0c6007f7.ctex::
 4.png::CompressedTexture2D::5202683198569981840::1794760748::1794760762::1::::<><><>0<>0<>09d38f1ec7bcb1fc7bc685075ee71530<>res://.godot/imported/4.png-1b30c7b683190d435759cc40f0467198.ctex::
 5.png::CompressedTexture2D::1553823952002380170::1794760748::1794760762::1::::<><><>0<>0<>b3529d30ca7ed9ea1225bfb134ecf93b<>res://.godot/imported/5.png-343b7350afad981dddddbc23cd05112c.ctex::
 6.png::CompressedTexture2D::8672628338974670979::1794760748::1794760762::1::::<><><>0<>0<>b6b16ede8a29a09dffeb39bd5b17a037<>res://.godot/imported/6.png-4aca781b8287b5edbaba9e01d6799c79.ctex::
-::res://free-swamp-game-tileset-pixel-art/3 Objects/Bushes/::1794760749
+::res://free-swamp-game-tileset-pixel-art/3 Objects/Bushes/::1794760762
 1.png::CompressedTexture2D::4729685900403427889::1794760748::1794760762::1::::<><><>0<>0<>57bd561533e1b2b73485e9e13a22480b<>res://.godot/imported/1.png-e1aa66341ffa6db6e1104894c8483ff9.ctex::
 2.png::CompressedTexture2D::7427159500788139046::1794760748::1794760762::1::::<><><>0<>0<>b7077a741bfce3b5985ae7d571a18001<>res://.godot/imported/2.png-fed190f13148a31a4cf28476e11b3ddd.ctex::
 3.png::CompressedTexture2D::7534826673392868971::1794760748::1794760762::1::::<><><>0<>0<>8d41c3d3db49d1e28b9610b2b9988258<>res://.godot/imported/3.png-fe702fde75867aebb944d3b35d1fd18d.ctex::
@@ -95,11 +96,11 @@ Background.png::CompressedTexture2D::6319677940854478044::1794760747::1794760762
 7.png::CompressedTexture2D::2347784567729049779::1794760749::1794760762::1::::<><><>0<>0<>6c7704a6e72857822d4fc2bb824c6d53<>res://.godot/imported/7.png-855dc64ac50524801c035aa1a95a7fec.ctex::
 8.png::CompressedTexture2D::6594695229816833302::1794760749::1794760762::1::::<><><>0<>0<>1184a7fb0422ff6e84282f46b3ab9eb0<>res://.godot/imported/8.png-c5411765592e414fca11c764f2c5ca5d.ctex::
 9.png::CompressedTexture2D::4892861605858622379::1794760749::1794760762::1::::<><><>0<>0<>fd2706455187b897f104c8976c9e2959<>res://.godot/imported/9.png-c38d991c10605aba561fb373b48634ed.ctex::
-::res://free-swamp-game-tileset-pixel-art/3 Objects/Fence/::1794760749
+::res://free-swamp-game-tileset-pixel-art/3 Objects/Fence/::1794760762
 1.png::CompressedTexture2D::1226319106626112825::1794760749::1794760762::1::::<><><>0<>0<>5a76d1c2d6a026adbccece52c30dd8cc<>res://.godot/imported/1.png-5208e28aaef522bb7f9a035e1a58b282.ctex::
 2.png::CompressedTexture2D::3174823694416067167::1794760749::1794760762::1::::<><><>0<>0<>c1127b670735611dc48aa8ca0efae360<>res://.godot/imported/2.png-c2387872942e1d37053be14884c816db.ctex::
 3.png::CompressedTexture2D::3289025375962964055::1794760749::1794760761::1::::<><><>0<>0<>8499b03d49841596c96d3b50aa838dcb<>res://.godot/imported/3.png-eb94c3dba5c624d4e50473db131a7e61.ctex::
-::res://free-swamp-game-tileset-pixel-art/3 Objects/Grass/::1794760750
+::res://free-swamp-game-tileset-pixel-art/3 Objects/Grass/::1794760761
 1.png::CompressedTexture2D::646363676965637676::1794760750::1794760761::1::::<><><>0<>0<>441b0318ea6bc478cdd701a28c388b8c<>res://.godot/imported/1.png-e6f7077e33c7732f561ca18870393f81.ctex::
 2.png::CompressedTexture2D::1137910111606663014::1794760750::1794760761::1::::<><><>0<>0<>8e7de631abfa28355a1c6eb3d762cb80<>res://.godot/imported/2.png-88fce6dcc84b968d54d1df1fb7785977.ctex::
 3.png::CompressedTexture2D::8834539301642745933::1794760750::1794760761::1::::<><><>0<>0<>83875efcf374884f79590d5c8bd738d1<>res://.godot/imported/3.png-93fcfce15e599608ab9f9e818f22d48d.ctex::
@@ -110,14 +111,14 @@ Background.png::CompressedTexture2D::6319677940854478044::1794760747::1794760762
 8.png::CompressedTexture2D::7112765129892628660::1794760750::1794760761::1::::<><><>0<>0<>3da1f2c644a115c244c366af5ec953f5<>res://.godot/imported/8.png-901ef460241ef83ff3a733100b007085.ctex::
 9.png::CompressedTexture2D::704332773362002393::1794760750::1794760761::1::::<><><>0<>0<>e2f6c204d91a558d55702408b33302ef<>res://.godot/imported/9.png-8abea36c5366b608d83aad9e2e4bbc4e.ctex::
 10.png::CompressedTexture2D::6134115646731529519::1794760750::1794760761::1::::<><><>0<>0<>f785156c3a53962e87c6a8a67bf62761<>res://.godot/imported/10.png-60242ff8e5c54bb3db5d0f0597896abd.ctex::
-::res://free-swamp-game-tileset-pixel-art/3 Objects/Ladders/::1794760751
+::res://free-swamp-game-tileset-pixel-art/3 Objects/Ladders/::1794760763
 1.png::CompressedTexture2D::8976955107203019251::1794760750::1794760761::1::::<><><>0<>0<>714daa0be4b76576e101247479757d33<>res://.godot/imported/1.png-b6d24af7b631a5ace3809195f106f016.ctex::
 2.png::CompressedTexture2D::4163370753456114279::1794760751::1794760761::1::::<><><>0<>0<>87f9d5cca7d09aff4171e2b63821ed67<>res://.godot/imported/2.png-1b3f16f298aabab2bfc7830da206d5c3.ctex::
 3.png::CompressedTexture2D::1664247740300194416::1794760751::1794760761::1::::<><><>0<>0<>a5f613a782f1cb3d31759abee786fdad<>res://.godot/imported/3.png-a4b31615ef34c1c0fe464146384df920.ctex::
 4.png::CompressedTexture2D::4103849876364252171::1794760751::1794760763::1::::<><><>0<>0<>446c25a454a543a3e0cef6a23878a96e<>res://.godot/imported/4.png-7fa8c31e56f789397b78a5dd91a5e608.ctex::
 5.png::CompressedTexture2D::3862661392786151468::1794760751::1794760763::1::::<><><>0<>0<>e74426dfb625c97aacad762462f08c34<>res://.godot/imported/5.png-603683a72c4adea70ffc3216f091a130.ctex::
 6.png::CompressedTexture2D::5511407823172009633::1794760751::1794760763::1::::<><><>0<>0<>3f13a5ea7c03c24740e8c9e48a787c4b<>res://.godot/imported/6.png-d43522d8bf337aa7afde251dcef2939b.ctex::
-::res://free-swamp-game-tileset-pixel-art/3 Objects/Pointers/::1794760752
+::res://free-swamp-game-tileset-pixel-art/3 Objects/Pointers/::1794760764
 1.png::CompressedTexture2D::9070100001586421046::1794760751::1794760763::1::::<><><>0<>0<>32110fe63690a3dd34c816ca0f34d29a<>res://.godot/imported/1.png-0adae7971f78bf2fb5ccdd170d3c7391.ctex::
 2.png::CompressedTexture2D::6908973497343599256::1794760751::1794760763::1::::<><><>0<>0<>99789a91b0b6a6123bbec9b6f0281a0f<>res://.godot/imported/2.png-33e1c811b1a27d99a16b56d3fd5c336f.ctex::
 3.png::CompressedTexture2D::5385320919172115451::1794760751::1794760763::1::::<><><>0<>0<>8d5863bc2e1ab9eb337c693d6d2a10b7<>res://.godot/imported/3.png-496d88e0d3fdba6fd517c91768d87aef.ctex::
@@ -126,30 +127,32 @@ Background.png::CompressedTexture2D::6319677940854478044::1794760747::1794760762
 6.png::CompressedTexture2D::2370964144557114081::1794760752::1794760764::1::::<><><>0<>0<>0e2cdd8d6213e9b28ccce62f14501945<>res://.godot/imported/6.png-c00ca219d5800f2b218f9b0c2898f0a6.ctex::
 7.png::CompressedTexture2D::2428774166990768959::1794760752::1794760764::1::::<><><>0<>0<>9fa3d9e408fe04f277f4fc1ff546c499<>res://.godot/imported/7.png-d822674f2ff988ebc9adbf2b26ae705c.ctex::
 8.png::CompressedTexture2D::3592341031020940507::1794760752::1794760764::1::::<><><>0<>0<>67d9175d874f4cec25e5ea98cbc796f9<>res://.godot/imported/8.png-165d530cbcf7b70b768002c9b3a97ea2.ctex::
-::res://free-swamp-game-tileset-pixel-art/3 Objects/Ridges/::1794760752
+::res://free-swamp-game-tileset-pixel-art/3 Objects/Ridges/::1794760764
 1.png::CompressedTexture2D::2822486101429715527::1794760752::1794760764::1::::<><><>0<>0<>87904d248707d96e15c241bc73116fe0<>res://.godot/imported/1.png-48295db032cc71cec3091655a499eb42.ctex::
 2.png::CompressedTexture2D::5805214246453829590::1794760752::1794760764::1::::<><><>0<>0<>5b76387bd34601849040bcadf98c7b41<>res://.godot/imported/2.png-d01fc0fbccef7385a527ae18a3dcbfff.ctex::
 3.png::CompressedTexture2D::551198632375709418::1794760752::1794760764::1::::<><><>0<>0<>ee978b3ed41eed77222907aff7d01c0d<>res://.godot/imported/3.png-9a8ab0c9d7b34e5f81ab986a1784fe1c.ctex::
 4.png::CompressedTexture2D::4488228176010480628::1794760752::1794760764::1::::<><><>0<>0<>8a4e31b4c9f7a38ca6921e55b0553476<>res://.godot/imported/4.png-6512459a772a53a8c570dd6319b67888.ctex::
 5.png::CompressedTexture2D::5376560398978230321::1794760752::1794760764::1::::<><><>0<>0<>f671e898c6018b2ff69d160e338f5ebf<>res://.godot/imported/5.png-1f20815852d7adaea75cb4be4426f7b3.ctex::
 6.png::CompressedTexture2D::404668966404450590::1794760752::1794760764::1::::<><><>0<>0<>6ca1acc248aea9ceeda0da6e8e004ebd<>res://.godot/imported/6.png-9c3ec67d40ea2b50aa472d0e0f8068d0.ctex::
-::res://free-swamp-game-tileset-pixel-art/3 Objects/Stones/::1794760753
+::res://free-swamp-game-tileset-pixel-art/3 Objects/Stones/::1794760763
 1.png::CompressedTexture2D::5575598671666994693::1794760753::1794760763::1::::<><><>0<>0<>ec15578b5861d218e426ae3f9af03ab3<>res://.godot/imported/1.png-4eaaf3e10979d3efbdc5ce87dc6f37be.ctex::
 2.png::CompressedTexture2D::5135525177045507699::1794760753::1794760763::1::::<><><>0<>0<>7beaaf052232808c247f9ed563bae061<>res://.godot/imported/2.png-3e6288b375cc5fc50ea30391a3cedc0f.ctex::
 3.png::CompressedTexture2D::7229486764849033318::1794760753::1794760763::1::::<><><>0<>0<>664213d68af580df4241f0ead08dc92f<>res://.godot/imported/3.png-5f116f5f81eff7a4dc8f34774431b60d.ctex::
 4.png::CompressedTexture2D::6140661873339838189::1794760753::1794760763::1::::<><><>0<>0<>fd1197ee05d84149b6fced251b461f44<>res://.godot/imported/4.png-ee6dc9d0bd00778e15d227d121f745e6.ctex::
 5.png::CompressedTexture2D::3370290310301975405::1794760753::1794760763::1::::<><><>0<>0<>8cf05afa0dc2d3676087f238ec4f9a03<>res://.godot/imported/5.png-7d5d7da17e8f54314bf6fc6b601c9db9.ctex::
-::res://free-swamp-game-tileset-pixel-art/3 Objects/Trees/::1794760753
+::res://free-swamp-game-tileset-pixel-art/3 Objects/Trees/::1794760763
 1.png::CompressedTexture2D::1661494173919588134::1794760753::1794760763::1::::<><><>0<>0<>95453fcbcec00195e7a7e382ae4606d5<>res://.godot/imported/1.png-57a42b3c72f50dac3efd66d573852b79.ctex::
 2.png::CompressedTexture2D::8499443897465632134::1794760753::1794760763::1::::<><><>0<>0<>960fabe42543c558742e49e0aa587e4a<>res://.godot/imported/2.png-e103139684bb81c6d659a8fb7f5f0dbc.ctex::
 3.png::CompressedTexture2D::1132579038375527255::1794760753::1794760763::1::::<><><>0<>0<>017592d8c10c2c43903574d4ae4fea17<>res://.godot/imported/3.png-1290c71f33c6ede6ec58e37d7bb8fb05.ctex::
-::res://free-swamp-game-tileset-pixel-art/3 Objects/Willows/::1794760754
+::res://free-swamp-game-tileset-pixel-art/3 Objects/Willows/::1794760763
 1.png::CompressedTexture2D::9187720584413338705::1794760754::1794760763::1::::<><><>0<>0<>2a9d10768a8b2ba6d48c895649818a1c<>res://.godot/imported/1.png-aa1c54647861936c8584ef30d17bda84.ctex::
 2.png::CompressedTexture2D::4762485692273643835::1794760754::1794760763::1::::<><><>0<>0<>f219cf29a4e576a52145df371f12712e<>res://.godot/imported/2.png-46fb00d7e53580fde4776b54bca3ae93.ctex::
 3.png::CompressedTexture2D::4293794096281905548::1794760754::1794760763::1::::<><><>0<>0<>be5b2690b84a47cd669327605788ed1c<>res://.godot/imported/3.png-195733ef90f37afd5e38eb18f46f7e91.ctex::
-::res://free-swamp-game-tileset-pixel-art/4 Animated objects/::1794760754
+::res://free-swamp-game-tileset-pixel-art/4 Animated objects/::1794760763
 Chest.png::CompressedTexture2D::4413912566559816822::1794760754::1794760763::1::::<><><>0<>0<>162d9869282c5b85b983b03ece19462b<>res://.godot/imported/Chest.png-a10d5f94ae52338eb739cfa417a286be.ctex::
 Coin.png::CompressedTexture2D::8568353269017759173::1794760754::1794760763::1::::<><><>0<>0<>14b0f1697eb58d723af6cbd0e527cadc<>res://.godot/imported/Coin.png-5208b0bd57c8c8650cd53fdc483410fa.ctex::
 Flag.png::CompressedTexture2D::993964574643435562::1794760754::1794760763::1::::<><><>0<>0<>e788419cff4d0370471ac4f5dca1a978<>res://.godot/imported/Flag.png-a0fbcc760ecbf6a0b5add5d37a29c516.ctex::
 Key.png::CompressedTexture2D::322228286913353201::1794760754::1794760762::1::::<><><>0<>0<>39f57662080d908f9f9a38e443aa8384<>res://.godot/imported/Key.png-6952861b5efade4063d217a71eab9170.ctex::
 Rune.png::CompressedTexture2D::2082871909234412895::1794760754::1794760762::1::::<><><>0<>0<>7dc8f16b8b56b21637d7136b7c34bffc<>res://.godot/imported/Rune.png-053ed54373bdd0a76b2d1d8476bb5ec5.ctex::
+::res://haven2026-atl/::1794762309
+::res://haven2026-atl/scenes/::0
